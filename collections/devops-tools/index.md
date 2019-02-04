@@ -25,7 +25,7 @@ items:
  - moby/moby
  - kubernetes/kubernetes
  - apache/mesos
- - SeleniumHQ/selenium
+ - SeleniumHQ/selenium.
  
 display_name: DevOps tools
 ---
